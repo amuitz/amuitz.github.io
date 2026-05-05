@@ -31,4 +31,10 @@ Electoral, Regional and Media Conflictuality*, editor Mariano Torcal, Routledge,
 
 ### Edited books
 
+* **Informe sobre la democracia en España 2023: La renuncia al centro**, (with Alberto Penadés). *Centro de Estudios Políticos y Constitucionales*, 2024 (ISBN: 978-84-18677-16-8).
+* **Informe sobre la democracia en España 2022: El largo plazo**, (with Alberto Penadés). *Centro de Estudios Políticos y Constitucionales*, 2023 (ISBN: 978-84-18677-95-3).
+* **The political economy of federalism and multilevel politics in turbulent times** (with Sandra León and Anwen Elias). [*Frontiers in Political Science*, 2022](https://doi.org/10.3389/978-2-88976-820-2). <br/><a href="[]()" target="_blank"><button type="button button1">PDF</button></a> <a href=""><button type="button button1">details</button></a>
+* **Informe sobre la democracia en España 2021: El país frente al espejo**, (with Alberto Penadés). *Centro de Estudios Políticos y Constitucionales*, 2022 (ISBN: 978-84-18677-60-1).
+
+
 ### Other publications
