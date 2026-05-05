@@ -9,3 +9,5 @@ I am an Associate Professor of Political Science in the [Department of Social Sc
 My research focuses on federalism and decentralization. I use a range of quantitative methods to examine how these institutions are designed, how they evolve over time, and how they shape multilevel politics and societies. Part of my research has been published at the *European Journal of Political Research*, *Regional Studies*, and *West European Politics*, among others.
 
 I obtained my PhD from [Binghamton University](https://www.binghamton.edu/). Prior to joining UC3M, I was a Max Weber postdoctoral fellow at the [European University Institute](https://www.eui.eu/en/home), where I have also been a visiting fellow.
+
+<img src="files/photo.JPG" style="width: 45%; height: 60%" />
