@@ -16,6 +16,7 @@ layout: default
 * **Passing the buck? Responsibility attribution and cognitive bias in multilevel democracies** (with Ignacio Jurado and Sandra León). [*West European Politics*, 2018](https://doi.org/10.1080/01402382.2017.1405325). <br/><a href="[]()" target="_blank"><button type="button button1">PDF</button></a> <a href=""><button type="button button1">details</button></a>
 * **Going public against institutional constraints? Analyzing the online presence intensity of 2014 European Parliament election candidates** (with Javier Lorenzo). [*European Union Politics*, 2016](https://doi.org/10.1177/1465116515618252). <br/><a href="[]()" target="_blank"><button type="button button1">PDF</button></a> <a href=""><button type="button button1">details</button></a>
 * **Looking for Two-Sided Coattail Effects: Integrated Parties and Multilevel Elections in the U.S.** (with H. Ege Özen). [*Electoral Studies*, 2015](https://doi.org/10.1016/j.electstud.2015.06.006). <br/><a href="[]()" target="_blank"><button type="button button1">PDF</button></a> <a href=""><button type="button button1">details</button></a>
+* **La disolución de formaciones políticas en España: el caso Sortu**. [*Cuestiones Constitucionales*, 2011](https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1405-91932011000200010). <br/><a href="[]()" target="_blank"><button type="button button1">PDF</button></a> <a href=""><button type="button button1">details</button></a>
 
 ### Book chapters
 
