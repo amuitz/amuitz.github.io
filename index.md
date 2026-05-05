@@ -10,4 +10,6 @@ My research focuses on federalism and decentralization. I use a range of quantit
 
 I obtained my PhD from [Binghamton University](https://www.binghamton.edu/). Prior to joining UC3M, I was a Max Weber postdoctoral fellow at the [European University Institute](https://www.eui.eu/en/home), where I have also been a visiting fellow.
 
-<img src="files/photo.JPG" style="width: 45%; height: 60%" />
+
+
+<img src="files/amuitz.png" style="width: 45%; height: 60%" />
