@@ -18,7 +18,7 @@ br {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#e74c3c !important;
+  color:#212121;
   margin:0 0 20px;
 }
 
@@ -43,27 +43,27 @@ h1 {
 }
 
 h2 {
-  color:#e74c3c !important;
+  color:#069;
   font-size:22px;
   font-weight:700;
 }
 
 h3, h4, h5, h6 {
-  color:#e74c3c !important;
+  color:#494949;
   font-weight:500;
 }
 
 a {
-  color:#e74c3c !important;
+  color:#069;
   text-decoration:none;
 }
 
 a:hover {
-  color:#e74c3c !important;
+  color:#004263;
   text-decoration: none;
   font-weight:400;
-  // text-shadow: -.25px -.25px #e74c3c,
-  //             .25px .25px #e74c3c;
+  // text-shadow: -.25px -.25px #004263,
+  //             .25px .25px #004263;
 }
 
 a small {
@@ -74,13 +74,13 @@ a small {
 }
 
 h1 a:hover {
-  color:#e74c3c;
+  color:#004263;
   text-decoration: none;
   font-weight:500;
 }
 
 .ai a:hover {
-  color:#e74c3c;
+  color:#004263;
 }
 
 .wrapper {
