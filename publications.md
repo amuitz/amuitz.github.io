@@ -20,6 +20,15 @@ layout: default
 
 ### Book chapters
 
+* **Media and Democracy** (with Pablo Fernández Vázquez and Pedro Riera). In *Twisted Modernization*, editors Pablo Beramendi and Carles Boix, Cambridge University Press, 2026.
+* **Territorial Polarisation after Radical Parties’ Breakthrough in Spain** (with Pedro Riera). In *Affective Polarisation in Spain
+Electoral, Regional and Media Conflictuality*, editor Mariano Torcal, Routledge, 2023.
+* **The political determinants of decentralization**. In *Handbook on Decentralization, devolution and the State*, editor Ignacio Lago Peñas, Edward Elgar Publishing, 2021.
+* **Fiscal decentralization**. In *Handbook on the Politics of Taxation*, editors Laura Seelkopf and Lukas Hakelberg, Edward Elgar Publishing, 2021.
+* **Passing the buck? Responsibility attribution and cognitive bias in multilevel democracies** (with Ignacio Jurado and Sandra León). In *Democratic Representation in Multi-level Systems*, editors Thomas Däubler, Jochen Müller and Christian Stecker. Routledge, 2019.
+* **El sistema político belga**. In *Manual de Sistemas Políticos en Europa*. Editorial Tirant Lo Blanch, 2013.
+* **Federalismo judicial: modelo de ordenación del poder judicial en Estados compuestos** (with Luis Alberto Trejo Osornio). In *Jurisprudencia del Tribunal Constitucional Español*, editors Roberto Niembro, Luis Pomed Sánchez y Luis Alberto Trejo Osornio. Editorial Porrúa, Instituto Mexicano de Derecho Procesal, 2012.
+
 ### Edited books
 
 ### Other publications
