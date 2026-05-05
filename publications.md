@@ -31,10 +31,19 @@ Electoral, Regional and Media Conflictuality*](https://www.routledge.com/Affecti
 
 ### Edited books
 
-* **Informe sobre la democracia en España 2023: La renuncia al centro**, (with Alberto Penadés). *Centro de Estudios Políticos y Constitucionales*, 2024 (ISBN: 978-84-18677-16-8).
-* **Informe sobre la democracia en España 2022: El largo plazo**, (with Alberto Penadés). *Centro de Estudios Políticos y Constitucionales*, 2023 (ISBN: 978-84-18677-95-3).
+* [**Informe sobre la democracia en España 2023: La renuncia al centro**](https://www.cepc.gob.es/publicaciones/monografias/informe-sobre-la-democracia-en-espana-2023-la-renuncia-al-centro), (with Alberto Penadés). *Centro de Estudios Políticos y Constitucionales*, 2024 (ISBN: 978-84-18677-16-8).
+* [**Informe sobre la democracia en España 2022: El largo plazo**](https://www.cepc.gob.es/publicaciones/monografias/informe-sobre-la-democracia-en-espana-2022-el-largo-plazo), (with Alberto Penadés). *Centro de Estudios Políticos y Constitucionales*, 2023 (ISBN: 978-84-18677-95-3).
 * **The political economy of federalism and multilevel politics in turbulent times** (with Sandra León and Anwen Elias). [*Frontiers in Political Science*, 2022](https://doi.org/10.3389/978-2-88976-820-2). 
-* **Informe sobre la democracia en España 2021: El país frente al espejo**, (with Alberto Penadés). *Centro de Estudios Políticos y Constitucionales*, 2022 (ISBN: 978-84-18677-60-1).
-
+* [**Informe sobre la democracia en España 2021: El país frente al espejo**](https://www.cepc.gob.es/publicaciones/monografias/informe-sobre-la-democracia-en-espana-2021-el-pais-frente-al-espejo), (with Alberto Penadés). *Centro de Estudios Políticos y Constitucionales*, 2022 (ISBN: 978-84-18677-60-1).
 
 ### Other publications
+
+* **Polarización territorial**. Revista de Occidente, n. 521, 2024. (SJR, 2024: Cultural Studies 1325/1398, Q4).
+* **Socialdemocracia, Territorio, e Identidad**. En *Retos de la Socialdemocracia*, Revista Grand Place, 2023 (ISSN: 2386-429X).
+* **Informe sobre la democracia en España 2020: El año de la pandemia**. Fundación Alternativas, 2021 (ISBN: 978-84-18677-18-2). 
+* **¿El fin del consenso territorial en España?** (with Sandra León). En *Informe sobre la democracia en España 2019*. Fundación Alternativas, 2020 (ISBN: 978-84-122331-5-5).
+* **El poder político territorial**. Monográfico Regeneración Democrática. Nueva Revista n. 173, 2020.
+* **40 años de gobiernos autonómicos en España: competición política, feudos electorales y calidad de gobierno**. En *Informe sobre la democracia en España 2018*. Fundación Alternativas, 2019 (ISBN: 978-84-949660-8-8).
+* **Las estrategias online de los partidos en las elecciones europeas de 2014. ¿Un nicho para los partidos niche?**, (with Javier Lorenzo) Estudios de Progreso n. 84, Fundación Alternativas, 2015 (ISBN: 978-84-15860-46-4).
+**La posible plasmación de la teoría del tercer miembro del Estado federal en el ordenamiento jurídico español**. Working Papers CEPCO, 2010 (ISBN: 978-84-259-1506-2).
+
