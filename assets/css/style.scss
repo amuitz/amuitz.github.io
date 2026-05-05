@@ -54,16 +54,16 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#069;
+  color:#e74c3c !important;
   text-decoration:none;
 }
 
 a:hover {
-  color:#004263;
+  color:#e74c3c !important;
   text-decoration: none;
   font-weight:400;
-  // text-shadow: -.25px -.25px #004263,
-  //             .25px .25px #004263;
+  // text-shadow: -.25px -.25px #e74c3c,
+  //             .25px .25px #e74c3c;
 }
 
 a small {
@@ -74,13 +74,13 @@ a small {
 }
 
 h1 a:hover {
-  color:#004263;
+  color:#e74c3c;
   text-decoration: none;
   font-weight:500;
 }
 
 .ai a:hover {
-  color:#004263;
+  color:#e74c3c;
 }
 
 .wrapper {
