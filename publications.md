@@ -21,19 +21,19 @@ layout: default
 ### Book chapters
 
 * **Media and Democracy** (with Pablo Fernández Vázquez and Pedro Riera). In *Twisted Modernization*, editors Pablo Beramendi and Carles Boix, Cambridge University Press, 2026.
-* **Territorial Polarisation after Radical Parties’ Breakthrough in Spain** (with Pedro Riera). In *Affective Polarisation in Spain
-Electoral, Regional and Media Conflictuality*, editor Mariano Torcal, Routledge, 2023.
-* **The political determinants of decentralization**. In *Handbook on Decentralization, devolution and the State*, editor Ignacio Lago Peñas, Edward Elgar Publishing, 2021.
-* **Fiscal decentralization**. In *Handbook on the Politics of Taxation*, editors Laura Seelkopf and Lukas Hakelberg, Edward Elgar Publishing, 2021.
-* **Passing the buck? Responsibility attribution and cognitive bias in multilevel democracies** (with Ignacio Jurado and Sandra León). In *Democratic Representation in Multi-level Systems*, editors Thomas Däubler, Jochen Müller and Christian Stecker. Routledge, 2019.
-* **El sistema político belga**. In *Manual de Sistemas Políticos en Europa*. Editorial Tirant Lo Blanch, 2013.
-* **Federalismo judicial: modelo de ordenación del poder judicial en Estados compuestos** (with Luis Alberto Trejo Osornio). In *Jurisprudencia del Tribunal Constitucional Español*, editors Roberto Niembro, Luis Pomed Sánchez y Luis Alberto Trejo Osornio. Editorial Porrúa, Instituto Mexicano de Derecho Procesal, 2012.
+* **Territorial Polarisation after Radical Parties’ Breakthrough in Spain** (with Pedro Riera). In [*Affective Polarisation in Spain
+Electoral, Regional and Media Conflictuality*](https://www.routledge.com/Affective-Polarisation-in-Spain-Electoral-Regional-and-Media-Conflictuality/Torcal/p/book/9781032504117), editor Mariano Torcal, Routledge, 2023.
+* **The political determinants of decentralization**. In [*Handbook on Decentralization, devolution and the State*](https://www.e-elgar.com/shop/gbp/handbook-on-decentralization-devolution-and-the-state-9781839103278.html?srsltid=AfmBOorOSpaGtIL8AumeQpwUV9bvwMIAQfzuGzre1lUwSJ6gRTuxI2A5), editor Ignacio Lago Peñas, Edward Elgar Publishing, 2021.
+* **Fiscal decentralization**. In [*Handbook on the Politics of Taxation*](https://www.e-elgar.com/shop/gbp/handbook-on-the-politics-of-taxation-9781788979412.html?srsltid=AfmBOoqKZPJEZDnamQlOE1c_q45dOxV7Vwh983M-ydfXfhqWZt5gAbdT), editors Laura Seelkopf and Lukas Hakelberg, Edward Elgar Publishing, 2021.
+* **Passing the buck? Responsibility attribution and cognitive bias in multilevel democracies** (with Ignacio Jurado and Sandra León). In [*Democratic Representation in Multi-level Systems*](https://www.routledge.com/Democratic-Representation-in-Multi-level-Systems-The-Vices-and-Virtues-of-Regionalisation/Daubler-Muller-Stecker/p/book/9780367729738), editors Thomas Däubler, Jochen Müller and Christian Stecker. Routledge, 2019.
+* **El sistema político belga**. In [*Manual de Sistemas Políticos en Europa*](https://editorial.tirant.com/co/ebook/sistemas-politicos-en-europa-3-edicion-actualizada-y-ampliada-gema-sanchez-medero-9788413977003). Editorial Tirant Lo Blanch, 2013.
+* **Federalismo judicial: modelo de ordenación del poder judicial en Estados compuestos** (with Luis Alberto Trejo Osornio). In [*Jurisprudencia del Tribunal Constitucional Español*](https://dialnet.unirioja.es/servlet/libro?codigo=563492), editors Roberto Niembro, Luis Pomed Sánchez y Luis Alberto Trejo Osornio. Editorial Porrúa, Instituto Mexicano de Derecho Procesal, 2012.
 
 ### Edited books
 
 * **Informe sobre la democracia en España 2023: La renuncia al centro**, (with Alberto Penadés). *Centro de Estudios Políticos y Constitucionales*, 2024 (ISBN: 978-84-18677-16-8).
 * **Informe sobre la democracia en España 2022: El largo plazo**, (with Alberto Penadés). *Centro de Estudios Políticos y Constitucionales*, 2023 (ISBN: 978-84-18677-95-3).
-* **The political economy of federalism and multilevel politics in turbulent times** (with Sandra León and Anwen Elias). [*Frontiers in Political Science*, 2022](https://doi.org/10.3389/978-2-88976-820-2). <br/><a href="[]()" target="_blank"><button type="button button1">PDF</button></a> <a href=""><button type="button button1">details</button></a>
+* **The political economy of federalism and multilevel politics in turbulent times** (with Sandra León and Anwen Elias). [*Frontiers in Political Science*, 2022](https://doi.org/10.3389/978-2-88976-820-2). 
 * **Informe sobre la democracia en España 2021: El país frente al espejo**, (with Alberto Penadés). *Centro de Estudios Políticos y Constitucionales*, 2022 (ISBN: 978-84-18677-60-1).
 
 
