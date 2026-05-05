@@ -4,7 +4,7 @@ layout: default
 
 <img src="files/photo.JPG" style="width: 45%; height: 45%" />
 
-I am an Associate Professor of Political Science in the [Department of Social Sciences](https://www.uc3m.es/social-sciences-department/home) at [Universidad Carlos III de Madrid](https://www.uc3m.es/home)and a fellow member of the [Instituto Juan Lin](https://ijlinz.es).
+I am an Associate Professor of Political Science in the [Department of Social Sciences](https://www.uc3m.es/social-sciences-department/home) at [Universidad Carlos III de Madrid](https://www.uc3m.es/home)and a fellow member of the [Instituto Juan Linz](https://ijlinz.es).
 
 My research
 
