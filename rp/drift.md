@@ -13,6 +13,6 @@ To address this gap, the project pursues three main objectives. First, it seeks 
 Overall, the project aims to deepen our understanding of the nature and key features of territorial preferences in democratic settings, with the broader goal of better explaining the institutional and territorial evolution of countries through the use of multiple levels of analysis and diverse data sources.
 
 <figure>
-<img src="https://github.com/amuitz/amuitz.github.io/raw/main/research/degaulle.png" style="width:50%;">
+<img src="https://github.com/amuitz/amuitz.github.io/raw/main/rp/degaulle.png" style="width:50%;">
 <figcaption><b>Figure:</b> 1969 French Referendum on Decentralization</figcaption>
 </figure>
