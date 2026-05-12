@@ -12,4 +12,4 @@ layout: default
 
 # WORKING PAPERS
 
-### Borders Within: How Disaster Divides and Unites along Territorial Lines <br/><a href="" target="_blank"><button type="button button1">Manuscript</button></a> <a href=""><button type="button button1">Appendix</button></a>
+### Borders Within: How Disaster Divides and Unites along Territorial Lines (with Sandra León) <br/><a href="" target="_blank"><button type="button button1">Manuscript</button></a> <a href=""><button type="button button1">Appendix</button></a>
