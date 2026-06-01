@@ -45,5 +45,5 @@ Electoral, Regional and Media Conflictuality*](https://www.routledge.com/Affecti
 * **El poder político territorial**. Monográfico Regeneración Democrática. Nueva Revista n. 173, 2020.
 * **40 años de gobiernos autonómicos en España: competición política, feudos electorales y calidad de gobierno**. En *Informe sobre la democracia en España 2018*. Fundación Alternativas, 2019 (ISBN: 978-84-949660-8-8).
 * **Las estrategias online de los partidos en las elecciones europeas de 2014. ¿Un nicho para los partidos niche?**, (with Javier Lorenzo) Estudios de Progreso n. 84, Fundación Alternativas, 2015 (ISBN: 978-84-15860-46-4).
-**La posible plasmación de la teoría del tercer miembro del Estado federal en el ordenamiento jurídico español**. Working Papers CEPCO, 2010 (ISBN: 978-84-259-1506-2).
+* **La posible plasmación de la teoría del tercer miembro del Estado federal en el ordenamiento jurídico español**. Working Papers CEPCO, 2010 (ISBN: 978-84-259-1506-2).
 
