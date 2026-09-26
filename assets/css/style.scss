@@ -86,8 +86,8 @@ img { max-width: 100%; height: auto; }
   border-radius: 50%;
   background: var(--accent);
   color: var(--panel);
-  font: 500 19px/1 var(--serif);
-  letter-spacing: .02em;
+  font: 500 16px/1 var(--serif);
+  letter-spacing: .01em;
   margin-bottom: 22px;
 }
 .monogram:hover { background: var(--accent-2); color: var(--panel); }
@@ -248,14 +248,22 @@ img { max-width: 100%; height: auto; }
 .content figcaption { font-size: 13px; color: var(--muted); margin-top: 8px; }
 .content figure img { border-radius: 10px; box-shadow: var(--shadow); }
 
-/* portrait + island photo on the home page */
+/* home page: cover banner with the portrait overlapping it */
+.cover {
+  height: 250px;
+  border-radius: 16px;
+  background: var(--chip) url("../../files/background.webp") center 40% / cover no-repeat;
+  box-shadow: var(--shadow);
+}
 .content img[src*="photo"] {
-  width: 220px !important; height: 220px !important;
+  position: relative;
+  z-index: 1;
+  width: 190px !important; height: 190px !important;
   object-fit: cover;
   border-radius: 50%;
-  border: 6px solid var(--panel);
+  border: 6px solid var(--bg);
   box-shadow: var(--shadow);
-  margin: 0 0 30px;
+  margin: -105px 0 26px 32px;
   display: block;
 }
 .content img[src*="amuitz.png"] {
@@ -369,7 +377,7 @@ img { max-width: 100%; height: auto; }
   .shell { grid-template-columns: 1fr; gap: 0; padding: 0; }
   .side { border-bottom: 1px solid var(--line); background: var(--panel); }
   .side-inner { position: static; padding: 28px 20px 0; }
-  .monogram { width: 44px; height: 44px; font-size: 16px; margin-bottom: 14px; }
+  .monogram { width: 44px; height: 44px; font-size: 13.5px; margin-bottom: 14px; }
   .name { font-size: 25px; }
   .social { margin: 16px 0 18px; }
   .nav {
@@ -388,6 +396,8 @@ img { max-width: 100%; height: auto; }
   .content { padding: 36px 20px 40px; max-width: none; }
   .content h2 { font-size: 28px; }
   .content ul > li { padding: 16px 16px; }
+  .cover { height: 170px; border-radius: 12px; }
+  .content img[src*="photo"] { width: 136px !important; height: 136px !important; margin: -72px 0 22px 18px; border-width: 5px; }
 }
 
 @media print {
