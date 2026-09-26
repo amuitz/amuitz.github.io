@@ -19,7 +19,7 @@
     <div class="shell">
       <aside class="side">
         <div class="side-inner">
-          <a class="monogram" href="{{ "/" | relative_url }}" aria-label="Home">AG</a>
+          <a class="monogram" href="{{ "/" | relative_url }}" aria-label="Home">AGM</a>
           <h1 class="name"><a href="{{ "/" | relative_url }}">Amuitz Garmendia Madariaga</a></h1>
           <p class="role">
             Associate Professor of Political Science<br>
@@ -47,6 +47,7 @@
       </aside>
 
       <main class="content{% if u contains "research" or u contains "/rp/" or u contains "opo" %} is-research{% endif %}">
+        {% if u == "/" or u == "/index.html" %}<div class="cover" role="img" aria-label="Terracotta building facade against a blue sky"></div>{% endif %}
         {{ content }}
         <footer class="foot">© {{ site.time | date: "%Y" }} Amuitz Garmendia Madariaga · Madrid</footer>
       </main>
