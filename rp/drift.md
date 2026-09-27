@@ -40,8 +40,6 @@ title: "DRIFT"
 
   <p>On 27 April 1969, French voters rejected the reform and de Gaulle resigned the next day. As the map shows, the result was far from uniform: parts of the west, the east, the Massif Central and Corsica voted Yes, while most of the country said No.</p>
 
-  <p class="project-note">Supranational integration is treated as a complementary dimension of territorial preferences, following the multilevel-governance literature (Hooghe and Marks 2008).</p>
-
 </div>
 
 <aside class="project-figs">
