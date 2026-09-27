@@ -494,3 +494,42 @@ img { max-width: 100%; height: auto; }
   .content .project-title { font-size: 44px; }
   .project-figs { grid-template-columns: 1fr; }
 }
+
+/* ---------- media page ---------- */
+
+.media-list { display: grid; gap: 16px; }
+.media-item {
+  display: grid;
+  grid-template-columns: 200px minmax(0, 1fr);
+  gap: 22px;
+  align-items: start;
+  padding: 18px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  transition: border-color .2s, box-shadow .2s;
+}
+.media-item:hover { border-color: color-mix(in srgb, var(--accent) 40%, var(--line)); box-shadow: var(--shadow); }
+.media-thumb img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  object-position: left top;
+  display: block;
+  border-radius: 8px;
+  border: 1px solid var(--line);
+}
+.content .media-meta {
+  font: 600 11.5px/1.3 var(--sans);
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--accent-2);
+  margin: 2px 0 8px;
+}
+.content .media-title { font: 500 19px/1.35 var(--serif); color: var(--ink); margin: 0 0 8px; }
+.content .media-desc { font-size: 15px; margin: 0 0 4px; }
+.media-links button { margin-top: 6px; }
+
+@media (max-width: 640px) {
+  .media-item { grid-template-columns: 1fr; }
+}
