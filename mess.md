@@ -16,13 +16,13 @@ What we do:
 - An annual workshop where members present research projects and exchange ideas.
 - Regular get-togethers to build networks between colleagues from different institutions.
 
-### MESS I: UC3M
+<h3 style="font:500 21px/1.3 var(--serif);text-transform:none;letter-spacing:0;color:var(--ink);margin:1.6em 0 .4em;">MESS I: UC3M</h3>
 
 <p>Date: October 18–19, 2024<br>
 Location: <a href="https://maps.app.goo.gl/JDHx4d3A1kpN7fNg8" target="_blank" rel="noopener">UC3M Puerta de Toledo Campus, Madrid</a><br>
 Keynote speaker: <a href="http://www.niloufersiddiqui.com/" target="_blank" rel="noopener">Professor Niloufer A. Siddiqui (SUNY Albany)</a></p>
 
-### MESS II: IE University
+<h3 style="font:500 21px/1.3 var(--serif);text-transform:none;letter-spacing:0;color:var(--ink);margin:1.6em 0 .4em;">MESS II: IE University</h3>
 
 <p>Date: October 24–25, 2025<br>
 Location: IE Tower, P.º de la Castellana, 259, Madrid<br>
