@@ -9,7 +9,7 @@ layout: default
 
 # WORKING PAPERS
 
-### Decentralization by Design, Democracy by Default: De Gaulle's 1969 Gambit (with Filippo Liviano D'Arcangelo) <br/><a href="./rp/drift.html#featured-paper"><button type="button button1">details</button></a>
+### Decentralization by Design, Democracy by Default: De Gaulle's 1969 Gambit (with Filippo Liviano D'Arcangelo) <br/><a href="./rp/drift.html#featured-paper"><button type="button button1">DRIFT</button></a>
 
 ### Territorial prejudice reduction through reciprocity (with Sandra León) <br/><a href="" target="_blank"><button type="button button1">Manuscript</button></a> <a href=""><button type="button button1">Appendix</button></a> <a href="./rp/fedcrisis.html#working-papers-fedcrisis"><button type="button button1">FEDCRISIS</button></a>
 
