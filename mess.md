@@ -9,7 +9,7 @@ title: "MESS"
 
 <img src="https://madridempiricalsocialsciences.github.io/assets/img/mess.jpg" alt="MESS logo" style="width:180px;max-width:100%;height:auto;border-radius:12px;display:block;margin:1em 0 1.4em;">
 
-MESS is a collaborative platform that brings together social scientists from academic institutions across Madrid. It has more than 120 members from Universidad Carlos III de Madrid, IE University, CSIC, Universidad Complutense, CUNEF Universidad and Universidad Autónoma de Madrid.
+MESS is a collaborative platform, founded by a group of young social scientists based in Madrid, that aims at bringing together empirical researchers working on Political Science, Sociology, Economics or any other social science, at all ranks, in the region of Madrid. Currently, the network has more than 120 members from Universidad Carlos III de Madrid, IE University, CSIC, Universidad Complutense, CUNEF Universidad and Universidad Autónoma de Madrid.
 
 What we do:
 
