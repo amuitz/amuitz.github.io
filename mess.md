@@ -13,8 +13,8 @@ MESS is a collaborative platform that brings together social scientists from aca
 
 What we do:
 
-- An **annual workshop** where members present research projects and exchange ideas.
-- **Regular get-togethers** to build networks between colleagues from different institutions.
+- An annual workshop where members present research projects and exchange ideas.
+- Regular get-togethers to build networks between colleagues from different institutions.
 
 I'm part of the scientific committee, together with Emmy Lindstam (IE University), Amalia Álvarez-Benjumea (CSIC), Jorge M. Fernandes (CSIC), Patrick Kraft (CSIC) and Sergio Galaz-García (CUNEF).
 
