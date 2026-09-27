@@ -28,6 +28,11 @@ Keynote speaker: <a href="http://www.niloufersiddiqui.com/" target="_blank" rel=
 Location: <a href="https://www.google.com/maps/search/?api=1&query=IE+Tower+Paseo+de+la+Castellana+259+Madrid" target="_blank" rel="noopener">IE Tower, P.º de la Castellana, 259, Madrid</a><br>
 Keynote speaker: <a href="https://www.turnbulldugarte.com/" target="_blank" rel="noopener">Stuart J. Turnbull-Dugarte (University of Southampton)</a></p>
 
+<figure style="max-width:560px;margin:1em 0 1.6em;">
+  <img src="./files/mess2.jpg" alt="Group photo of participants at MESS II, IE Tower, Madrid" style="width:100%;height:auto;border-radius:12px;display:block;">
+  <figcaption style="font-size:14px;color:var(--muted);margin-top:8px;">MESS II participants at IE Tower, Madrid</figcaption>
+</figure>
+
 I'm part of the scientific committee, together with Emmy Lindstam (IE University), Amalia Álvarez-Benjumea (CSIC), Jorge M. Fernandes (CSIC), Patrick Kraft (CSIC) and Sergio Galaz-García (CUNEF).
 
 <p><a href="https://madridempiricalsocialsciences.github.io/" target="_blank" rel="noopener"><button type="button">Visit the MESS website</button></a></p>
