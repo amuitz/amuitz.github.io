@@ -1,13 +1,62 @@
 ---
 layout: default
+title: "FEDCRISIS"
 ---
 
-## Summary
+<div class="project">
 
-“Federalism against its challenges: crisis, polarization and populism” (FEDCRISIS) is a national project funded through a grant by the Spanish Ministry of Science and Innovation (PID2021-128287NB-I00, 2022-2026).
+<header class="project-head">
+  <p class="project-eyebrow">Ministerio de Ciencia e Innovación · PID2021-128287NB-I00 · 2022–2026</p>
+  <h2 class="project-title">FEDCRISIS</h2>
+  <p class="project-sub">Federalism against its challenges: crisis, polarization and populism</p>
+  <p class="project-links">
+    <a href="../research.html"><button type="button">All research</button></a>
+  </p>
+</header>
 
-This project explores the functioning of federalism and decentralization in the face of three challenges: crisis, polarization and populism. Its aim is to provide a better understanding of the effects of crises on public opinion attitudes towards the (de) centralization of power; explore the challenges posed for accountability by the growing affective polarization and study the relationship between the center-periphery cleavage and the political discourse of radical right-wing populist parties.
+<div class="project-grid">
 
-Federalism and decentralization have been championed around the world on the promise of better governance, economic efficiency, and the appeasement of ethnic conflicts. As the literature has shown, the consequences of such institutional reforms have been mixed: in some cases, federal institutions have helped to reinforce democratic transitions and reduce ethnic conflict, while in other cases federal arrangements have been dangerous and proven in fiscal mismanagement, separatist conflict, and decreased accountability. 
+<div class="project-text">
 
-This project aims to measure the democratic and efficient promises of multilevel governance in the face of the challenges that crises, increased polarization and populism pose on institutional arrangements and the functioning of federal and decentralized systems. This project aims to measure the democratic and efficiency-specific promises of multilevel governance against the challenges that economic crisis, the upsurge of polarization and the covid-19 pandemic pose to the institutional arrangements and operation of federal and decentralized systems.
+  <h3 class="project-h">Why it matters</h3>
+  <p>Federalism and decentralization are usually sold as a package deal: better governance, sharper accountability, calmer ethnic and territorial conflict. But that promise has rarely been tested under real pressure. FEDCRISIS asks what happens to multilevel democracies when the pressure is on — when a pandemic hits, when politics turns tribal, and when populists start using the map itself as a weapon.</p>
+  <p>Co-led with Sandra León and funded by Spain's Ministry of Science and Innovation, the project tracks how crisis, polarization and populism strain the relationship between central and regional governments — and what citizens make of it.</p>
+
+  <h3 class="project-h">Three challenges</h3>
+  <ol class="project-steps">
+    <li><strong>Crisis.</strong> The Covid-19 pandemic turned decentralization into a daily headline. We study how citizens' support for (de)centralized power shifted as the crisis unfolded, and what that shift reveals about the durability of territorial preferences under stress.</li>
+    <li><strong>Polarization.</strong> Affective polarization doesn't stop at the national level. We examine how it seeps into multilevel politics and undermines the accountability mechanisms that federal and decentralized systems depend on.</li>
+    <li><strong>Populism.</strong> Radical right-wing parties have found a new use for the centre–periphery cleavage. We trace how their discourse instrumentalizes territorial identity and what it means for the politics of decentralization going forward.</li>
+  </ol>
+
+  <h3 class="project-h">Key publications</h3>
+  <div class="project-paper" style="background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:12px;padding:18px 20px;margin:0 0 1.4em;">
+    <p style="font:500 17px/1.35 var(--serif);color:var(--ink);margin:0 0 4px;">Crisis management and territorial preferences: Experimental evidence during the pandemic</p>
+    <p style="font-size:14px;color:var(--muted);margin:0 0 12px;">with Sandra León · <em>European Journal of Political Research</em>, 2026</p>
+    <p style="margin:0 0 4px;"><a href="../pubs/ejpr2026.html"><button type="button">Details</button></a></p>
+  </div>
+  <div class="project-paper" style="background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:12px;padding:18px 20px;margin:0 0 1.4em;">
+    <p style="font:500 17px/1.35 var(--serif);color:var(--ink);margin:0 0 4px;">Crisis and centralisation: how the pandemic reshaped territorial preferences in Spain</p>
+    <p style="font-size:14px;color:var(--muted);margin:0 0 12px;">with Sandra León · <em>South European Society and Politics</em>, 2026</p>
+    <p style="margin:0 0 4px;"><a href="../pubs/sesp2026.html"><button type="button">Details</button></a></p>
+  </div>
+  <div class="project-paper" style="background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:12px;padding:18px 20px;margin:0;">
+    <p style="font:500 17px/1.35 var(--serif);color:var(--ink);margin:0 0 4px;">Territorial Polarisation after Radical Parties' Breakthrough in Spain</p>
+    <p style="font-size:14px;color:var(--muted);margin:0 0 12px;">with Pedro Riera · <em>South European Society and Politics</em>, 2022</p>
+    <p style="margin:0 0 4px;"><a href="../pubs/sesp2022.html"><button type="button">Details</button></a></p>
+  </div>
+
+</div>
+
+<aside class="project-figs">
+  <div class="project-paper" id="working-papers-fedcrisis" style="background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--accent-2);border-radius:12px;padding:18px 20px;">
+    <p style="font:600 15px/1.3 var(--sans);text-transform:uppercase;letter-spacing:.08em;color:var(--accent-2);margin:0 0 14px;">Related working papers</p>
+    <p style="margin:0 0 12px;"><strong style="display:block;color:var(--ink);margin-bottom:2px;">Territorial prejudice reduction through reciprocity</strong><span style="font-size:13.5px;color:var(--muted);">with Sandra León</span></p>
+    <p style="margin:0 0 12px;"><strong style="display:block;color:var(--ink);margin-bottom:2px;">Territorial Identity in Comparative Perspective</strong><span style="font-size:13.5px;color:var(--muted);">with Sandra León and Jair Alva Mendoza</span></p>
+    <p style="margin:0 0 14px;"><strong style="display:block;color:var(--ink);margin-bottom:2px;">Territorial Affective Polarization: Concept, Prevalence, and Impact</strong><span style="font-size:13.5px;color:var(--muted);">with Sandra León</span></p>
+    <p style="margin:0;"><a href="../research.html#working-papers"><button type="button">Working papers</button></a></p>
+  </div>
+</aside>
+
+</div>
+</div>
