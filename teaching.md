@@ -15,7 +15,7 @@ title: "Teaching"
 
 # UNDERGRADUATE COURSES
 
-### Multidisciplinary Workshop in Globalization ([Grado en Estudios Internacionales](https://www.uc3m.es/grado/estudios-internacionales) and double degrees, [UC3M](https://www.uc3m.es)) · 2017–2025
+### Multidisciplinary Workshop in Globalization ([Grado en Estudios Internacionales](https://www.uc3m.es/grado/estudios-internacionales) and double degrees, [UC3M](https://www.uc3m.es)) · 2017–2026
 
 ### Teorías y Enfoques en Ciencia Política ([Grado en Ciencias Políticas](https://www.uc3m.es/grado/ciencias-politicas) and double degrees, [UC3M](https://www.uc3m.es)) · 2017–2019
 
