@@ -24,6 +24,16 @@ title: "Media"
   </div>
 </article>
 
+<article class="media-item">
+  <a class="media-thumb" href="https://www.cuatro.com/noticias/cultura/20240320/amuitz-garmendia-polarizacion-y-convivencia-en-espana_18_012016689.html" target="_blank" rel="noopener"><img src="https://album.mediaset.es/eimg/2024/03/19/amuitz-garmendia-entrevista_ce1d.png" alt="Amuitz Garmendia interviewed by Noticias Cuatro"></a>
+  <div class="media-body">
+    <p class="media-meta">Noticias Cuatro · 20 March 2024 · Interview</p>
+    <p class="media-title">Amuitz Garmendia y la polarización en España: “Los españoles nos llevamos mejor de lo que parece”</p>
+    <p class="media-desc">A video interview on polarization and coexistence in Spain: which regions are seen most and least favourably by the rest of the country, where territorial stereotypes come from, and why Spaniards get along better than it seems.</p>
+    <p class="media-links"><a href="https://www.cuatro.com/noticias/cultura/20240320/amuitz-garmendia-polarizacion-y-convivencia-en-espana_18_012016689.html" target="_blank" rel="noopener"><button type="button">Watch interview</button></a></p>
+  </div>
+</article>
+
 </div>
 
 </section>
