@@ -5,7 +5,11 @@ title: "Media"
 
 ## Media
 
-### Press
+<div class="media-cols">
+
+<section>
+
+<h3>Press</h3>
 
 <div class="media-list">
 
@@ -19,5 +23,29 @@ title: "Media"
     <p class="media-links"><a href="./files/La%20escultora%20June%20Crespo%20lidera.pdf" target="_blank" rel="noopener"><button type="button">Read article (PDF)</button></a> <a href="./rp/drift.html"><button type="button">DRIFT project</button></a></p>
   </div>
 </article>
+
+</div>
+
+</section>
+
+<section>
+
+<h3>Podcasts</h3>
+
+<div class="media-list">
+
+<article class="media-item">
+  <a class="media-thumb media-badge" href="https://open.spotify.com/episode/2ZnZhO8OF64MPjbVnuo4Gd" target="_blank" rel="noopener" aria-label="Listen to PAUSA episode 51 on Spotify"><span><span class="media-badge-big">PAUSA</span><span class="media-badge-small">Episode 51 · 44 min</span></span></a>
+  <div class="media-body">
+    <p class="media-meta">PAUSA · El Confidencial · 8 November 2023</p>
+    <p class="media-title">¿Por qué catalanes y madrileños caemos tan mal?</p>
+    <p class="media-desc">Marta García Aller talks with Amuitz Garmendia about territorial identities in Spain: how strongly citizens feel Spanish, how Catalans, Andalusians and others relate to their regions, and why those identities matter so much in politics.</p>
+    <p class="media-links"><a href="https://open.spotify.com/episode/2ZnZhO8OF64MPjbVnuo4Gd" target="_blank" rel="noopener"><button type="button">Listen on Spotify</button></a> <a href="https://www.elconfidencial.com/espana/2023-11-09/podcast-pausa-locura-territorial-catalanes-mal_3770168/" target="_blank" rel="noopener"><button type="button">El Confidencial</button></a></p>
+  </div>
+</article>
+
+</div>
+
+</section>
 
 </div>
