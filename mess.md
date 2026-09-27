@@ -38,4 +38,10 @@ Keynote speaker: <a href="https://www.turnbulldugarte.com/" target="_blank" rel=
   <figcaption style="font-size:14px;color:var(--muted);margin-top:8px;">MESS II participants at IE Tower, Madrid</figcaption>
 </figure>
 
+<h3 style="font:500 21px/1.3 var(--serif);text-transform:none;letter-spacing:0;color:var(--ink);margin:1.6em 0 .4em;">MESS III: CSIC</h3>
+
+<p>Date: October 22–23, 2026<br>
+Location: <a href="https://www.google.com/maps/search/?api=1&query=CSIC+Calle+de+Albasanz+26-28+Madrid" target="_blank" rel="noopener">CSIC, Calle de Albasanz, 26–28, Madrid</a><br>
+Keynote speaker: <a href="https://www.ibei.org/en/aina-gallego-dobon_14504" target="_blank" rel="noopener">Aina Gallego (IBEI)</a></p>
+
 <p><a href="https://madridempiricalsocialsciences.github.io/" target="_blank" rel="noopener"><button type="button">Visit the MESS website</button></a></p>
