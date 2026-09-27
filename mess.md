@@ -25,8 +25,8 @@ Keynote speaker: <a href="http://www.niloufersiddiqui.com/" target="_blank" rel=
 <h3 style="font:500 21px/1.3 var(--serif);text-transform:none;letter-spacing:0;color:var(--ink);margin:1.6em 0 .4em;">MESS II: IE University</h3>
 
 <p>Date: October 24–25, 2025<br>
-Location: IE Tower, P.º de la Castellana, 259, Madrid<br>
-Keynote speaker: Stuart J. Turnbull-Dugarte (University of Southampton)</p>
+Location: <a href="https://www.google.com/maps/search/?api=1&query=IE+Tower+Paseo+de+la+Castellana+259+Madrid" target="_blank" rel="noopener">IE Tower, P.º de la Castellana, 259, Madrid</a><br>
+Keynote speaker: <a href="https://www.turnbulldugarte.com/" target="_blank" rel="noopener">Stuart J. Turnbull-Dugarte (University of Southampton)</a></p>
 
 I'm part of the scientific committee, together with Emmy Lindstam (IE University), Amalia Álvarez-Benjumea (CSIC), Jorge M. Fernandes (CSIC), Patrick Kraft (CSIC) and Sergio Galaz-García (CUNEF).
 
