@@ -22,6 +22,11 @@ What we do:
 Location: <a href="https://maps.app.goo.gl/JDHx4d3A1kpN7fNg8" target="_blank" rel="noopener">UC3M Puerta de Toledo Campus, Madrid</a><br>
 Keynote speaker: <a href="http://www.niloufersiddiqui.com/" target="_blank" rel="noopener">Professor Niloufer A. Siddiqui (SUNY Albany)</a></p>
 
+<figure style="max-width:560px;margin:1em 0 1.6em;">
+  <img src="./files/5a2a65eb-a087-4146-88b2-8988a449b0df.JPG" alt="Group photo of participants at MESS I, UC3M Puerta de Toledo Campus, Madrid" style="width:100%;height:auto;border-radius:12px;display:block;">
+  <figcaption style="font-size:14px;color:var(--muted);margin-top:8px;">MESS I participants at UC3M Puerta de Toledo Campus, Madrid</figcaption>
+</figure>
+
 <h3 style="font:500 21px/1.3 var(--serif);text-transform:none;letter-spacing:0;color:var(--ink);margin:1.6em 0 .4em;">MESS II: IE University</h3>
 
 <p>Date: October 24–25, 2025<br>
@@ -29,7 +34,7 @@ Location: <a href="https://www.google.com/maps/search/?api=1&query=IE+Tower+Pase
 Keynote speaker: <a href="https://www.turnbulldugarte.com/" target="_blank" rel="noopener">Stuart J. Turnbull-Dugarte (University of Southampton)</a></p>
 
 <figure style="max-width:560px;margin:1em 0 1.6em;">
-  <img src="./files/mess2.jpg" alt="Group photo of participants at MESS II, IE Tower, Madrid" style="width:100%;height:auto;border-radius:12px;display:block;">
+  <img src="./files/IMG_1146.jpg" alt="Group photo of participants at MESS II, IE Tower, Madrid" style="width:100%;height:auto;border-radius:12px;display:block;">
   <figcaption style="font-size:14px;color:var(--muted);margin-top:8px;">MESS II participants at IE Tower, Madrid</figcaption>
 </figure>
 
