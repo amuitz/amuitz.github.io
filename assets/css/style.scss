@@ -405,3 +405,92 @@ img { max-width: 100%; height: auto; }
   .shell { display: block; padding: 0; }
   body { background: #fff; }
 }
+
+/* ---------- project detail pages ---------- */
+
+.project-head { margin-bottom: 36px; }
+.project-eyebrow {
+  font: 600 12px/1 var(--sans) !important;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--accent-2) !important;
+  margin: 0 0 14px !important;
+}
+.content .project-title {
+  font-size: 56px;
+  line-height: 1;
+  letter-spacing: -.02em;
+  margin: 0 0 10px;
+  color: var(--accent);
+}
+.project-sub {
+  font: 500 19px/1.4 var(--serif);
+  color: var(--ink) !important;
+  margin: 0 0 20px !important;
+}
+.project-lede {
+  font-size: 17.5px;
+  line-height: 1.65;
+  color: var(--ink) !important;
+  padding-left: 18px;
+  border-left: 3px solid var(--accent-2);
+  margin: 0 0 18px !important;
+}
+.project-links button { margin-top: 0; }
+
+.project-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr);
+  gap: 40px;
+  align-items: start;
+}
+.project-text .project-h:first-child { margin-top: 0; }
+.project-text p { font-size: 15.5px; }
+
+.project-steps { list-style: none; counter-reset: step; padding: 0; margin: 0 0 1.4em; }
+.project-steps li {
+  counter-increment: step;
+  position: relative;
+  padding: 14px 16px 14px 56px;
+  margin-bottom: 10px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  font-size: 15px;
+  line-height: 1.55;
+  color: var(--ink-2);
+}
+.project-steps li::before {
+  content: counter(step);
+  position: absolute; left: 16px; top: 14px;
+  width: 26px; height: 26px;
+  display: grid; place-items: center;
+  border-radius: 50%;
+  background: var(--accent);
+  color: var(--panel);
+  font: 600 13px/1 var(--sans);
+}
+.project-steps strong { display: block; color: var(--ink); margin-bottom: 2px; }
+.project-note { font-size: 13.5px !important; color: var(--muted) !important; font-style: italic; }
+
+.project-figs { position: sticky; top: 32px; display: grid; gap: 26px; }
+.project-figs figure { margin: 0; }
+.project-figs img {
+  width: 100%;
+  display: block;
+  border-radius: 12px;
+  border: 1px solid var(--line);
+  background: #fff;
+  box-shadow: var(--shadow);
+}
+.project-figs figcaption { font-size: 13px; line-height: 1.5; margin-top: 10px; color: var(--muted); }
+.project-figs figcaption b { color: var(--ink); font-weight: 600; }
+
+@media (max-width: 1100px) {
+  .project-grid { grid-template-columns: 1fr; }
+  .project-figs { position: static; grid-template-columns: 1fr 1fr; gap: 18px; }
+}
+@media (max-width: 560px) {
+  .content .project-title { font-size: 44px; }
+  .project-figs { grid-template-columns: 1fr; }
+}
