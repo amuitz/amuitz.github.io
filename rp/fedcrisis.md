@@ -73,7 +73,8 @@ title: "FEDCRISIS"
     <p style="font:600 15px/1.3 var(--sans);text-transform:uppercase;letter-spacing:.08em;color:var(--accent-2);margin:0 0 14px;">Related working papers</p>
     <p style="margin:0 0 12px;"><strong style="display:block;color:var(--ink);margin-bottom:2px;">Territorial prejudice reduction through reciprocity</strong><span style="font-size:13.5px;color:var(--muted);">with Sandra León</span></p>
     <p style="margin:0 0 12px;"><strong style="display:block;color:var(--ink);margin-bottom:2px;">Territorial Identity in Comparative Perspective</strong><span style="font-size:13.5px;color:var(--muted);">with Sandra León and Jair Alva Mendoza</span></p>
-    <p style="margin:0 0 14px;"><strong style="display:block;color:var(--ink);margin-bottom:2px;">Territorial Affective Polarization: Concept, Prevalence, and Impact</strong><span style="font-size:13.5px;color:var(--muted);">with Sandra León</span></p>
+    <p style="margin:0 0 12px;"><strong style="display:block;color:var(--ink);margin-bottom:2px;">Territorial Affective Polarization: Concept, Prevalence, and Impact</strong><span style="font-size:13.5px;color:var(--muted);">with Sandra León</span></p>
+    <p style="margin:0 0 14px;"><strong style="display:block;color:var(--ink);margin-bottom:2px;">From Shock to Disengagement: How Natural Disasters Reshape Politics in Low-Trust Democracies</strong><span style="font-size:13.5px;color:var(--muted);">with Sandra León</span></p>
     <p style="margin:0;"><a href="../research.html#working-papers"><button type="button">Working papers</button></a></p>
   </div>
 </aside>
