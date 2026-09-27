@@ -9,7 +9,7 @@ title: "MESS"
 
 <img src="./files/mess-logo.png" alt="MESS logo" style="width:340px;max-width:100%;height:auto;border-radius:12px;display:block;margin:1em 0 1.4em;">
 
-MESS (Madrid Empirical Social Sciences) is a collaborative network founded by a group of young social scientists based in Madrid. It brings together empirical researchers at all career stages working in political science, sociology, economics and the wider social sciences across the Madrid region. MESS aims to make the most of the region's rich scientific ecosystem, whose scholars and institutions too often work alongside one another without meeting. It does so by creating regular opportunities to exchange ideas, share ongoing work and build collaborations across institutional boundaries. The network now counts more than 120 members from Universidad Carlos III de Madrid, IE University, CSIC, Universidad Complutense, CUNEF Universidad and Universidad Autónoma de Madrid.
+MESS (Madrid Empirical Social Sciences) is a collaborative network founded by a group of young social scientists based in Madrid. It brings together empirical researchers at all career stages working in political science, sociology, economics and the wider social sciences across the Madrid region. MESS aims to make the most of the region's rich scientific ecosystem, whose scholars and institutions too often work alongside one another without meeting. It does so by creating regular opportunities to exchange ideas, share ongoing work and build collaborations across institutional boundaries. The network now counts more than 120 members from Universidad Carlos III de Madrid, IE University, CSIC, Universidad Complutense, CUNEF Universidad and Universidad Autónoma de Madrid. I am part of its scientific committee, together with Emmy Lindstam (IE University), Amalia Álvarez-Benjumea (CSIC), Jorge M. Fernandes (CSIC), Patrick Kraft (CSIC) and Sergio Galaz-García (CUNEF).
 
 What we do:
 
@@ -37,7 +37,5 @@ Keynote speaker: <a href="https://www.turnbulldugarte.com/" target="_blank" rel=
   <img src="./files/IMG_1146.jpg" alt="Group photo of participants at MESS II, IE Tower, Madrid" style="width:100%;height:auto;border-radius:12px;display:block;">
   <figcaption style="font-size:14px;color:var(--muted);margin-top:8px;">MESS II participants at IE Tower, Madrid</figcaption>
 </figure>
-
-I'm part of the scientific committee, together with Emmy Lindstam (IE University), Amalia Álvarez-Benjumea (CSIC), Jorge M. Fernandes (CSIC), Patrick Kraft (CSIC) and Sergio Galaz-García (CUNEF).
 
 <p><a href="https://madridempiricalsocialsciences.github.io/" target="_blank" rel="noopener"><button type="button">Visit the MESS website</button></a></p>
