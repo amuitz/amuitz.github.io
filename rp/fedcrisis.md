@@ -54,6 +54,10 @@ title: "FEDCRISIS"
 </div>
 
 <aside class="project-figs">
+  <figure>
+    <img src="./1781109859134.jpeg" alt="Group photo of participants at the Place-Based Identities and Polarization workshop, St Antony's College, Oxford">
+    <figcaption><b>End-of-project conference.</b> Participants at "Place-Based Identities and Polarization," European Studies Centre, St Antony's College, University of Oxford.</figcaption>
+  </figure>
   <div class="project-paper" id="working-papers-fedcrisis" style="background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--accent-2);border-radius:12px;padding:18px 20px;">
     <p style="font:600 15px/1.3 var(--sans);text-transform:uppercase;letter-spacing:.08em;color:var(--accent-2);margin:0 0 14px;">Related working papers</p>
     <p style="margin:0 0 12px;"><strong style="display:block;color:var(--ink);margin-bottom:2px;">Territorial prejudice reduction through reciprocity</strong><span style="font-size:13.5px;color:var(--muted);">with Sandra León</span></p>
