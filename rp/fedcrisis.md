@@ -32,9 +32,9 @@ title: "FEDCRISIS"
   <h3 class="project-h">Data</h3>
   <p>The project builds on three main datasets, used or created within FEDCRISIS:</p>
   <ol class="project-steps">
-    <li><strong>Covid-19 dataset (13 countries).</strong> Cross-national data collected during the pandemic in thirteen countries, used to study how citizens' territorial preferences and support for (de)centralized power responded to the crisis.</li>
-    <li><strong>DANA panel.</strong> A panel survey fielded around the DANA, the devastating floods that hit Valencia in October 2024, following the same respondents over time to see how a disaster shapes views about who should govern, and who is to blame, across levels of government.</li>
-    <li><strong>Comparative survey (6 countries).</strong> An original survey we designed and fielded in six federations and quasi-federations: Belgium, Germany, Italy, Spain, the United Kingdom and the United States. It follows a two-wave panel design with embedded experiments and around 2,000–2,500 respondents per country.</li>
+    <li><strong>Covid-19 dataset (13 countries).</strong> Data collected during the pandemic in thirteen countries, used to study how territorial preferences and support for (de)centralization responded to the crisis. <em>Used in:</em> <a href="../pubs/ejpr2026.html"><em>European Journal of Political Research</em> (2026)</a> and <a href="../pubs/sesp2026.html"><em>South European Society and Politics</em> (2026)</a>.</li>
+    <li><strong>DANA panel.</strong> A panel survey around the October 2024 Valencia floods, following the same people over time to see how a disaster shapes views on who should govern and who is to blame across levels of government. <em>Used in:</em> "Borders Within" and a new working paper with Sandra León, "From Shock to Disengagement: How Natural Disasters Reshape Politics in Low-Trust Democracies."</li>
+    <li><strong>Comparative survey (6 countries).</strong> Belgium, Germany, Italy, Spain, the United Kingdom and the United States, with about 2,000–2,500 respondents per country. <em>Currently ongoing work.</em></li>
   </ol>
 
   <h3 class="project-h">Key publications</h3>
