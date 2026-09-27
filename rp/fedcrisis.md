@@ -29,6 +29,14 @@ title: "FEDCRISIS"
     <li><strong>Populism.</strong> Radical right-wing parties have found a new use for the centre–periphery cleavage. We trace how their discourse instrumentalizes territorial identity and what it means for the politics of decentralization going forward.</li>
   </ol>
 
+  <h3 class="project-h">Data</h3>
+  <p>The project builds on three main datasets, used or created within FEDCRISIS:</p>
+  <ol class="project-steps">
+    <li><strong>Covid-19 dataset (13 countries).</strong> Cross-national data collected during the pandemic in thirteen countries, used to study how citizens' territorial preferences and support for (de)centralized power responded to the crisis.</li>
+    <li><strong>DANA panel.</strong> A panel survey fielded around the DANA, the devastating floods that hit Valencia in October 2024, following the same respondents over time to see how a disaster shapes views about who should govern, and who is to blame, across levels of government.</li>
+    <li><strong>Comparative survey (6 countries).</strong> An original survey we designed and fielded in six federations and quasi-federations: Belgium, Germany, Italy, Spain, the United Kingdom and the United States. It follows a two-wave panel design with embedded experiments and around 2,000–2,500 respondents per country.</li>
+  </ol>
+
   <h3 class="project-h">Key publications</h3>
   <div class="project-paper" style="background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:12px;padding:18px 20px;margin:0 0 1.4em;">
     <p style="font:500 17px/1.35 var(--serif);color:var(--ink);margin:0 0 4px;">Crisis management and territorial preferences: Experimental evidence during the pandemic</p>
