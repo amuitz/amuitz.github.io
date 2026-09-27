@@ -16,6 +16,18 @@ What we do:
 - An annual workshop where members present research projects and exchange ideas.
 - Regular get-togethers to build networks between colleagues from different institutions.
 
+### MESS I: UC3M
+
+<p>Date: October 18–19, 2024<br>
+Location: <a href="https://maps.app.goo.gl/JDHx4d3A1kpN7fNg8" target="_blank" rel="noopener">UC3M Puerta de Toledo Campus, Madrid</a><br>
+Keynote speaker: <a href="http://www.niloufersiddiqui.com/" target="_blank" rel="noopener">Professor Niloufer A. Siddiqui (SUNY Albany)</a></p>
+
+### MESS II: IE University
+
+<p>Date: October 24–25, 2025<br>
+Location: IE Tower, P.º de la Castellana, 259, Madrid<br>
+Keynote speaker: Stuart J. Turnbull-Dugarte (University of Southampton)</p>
+
 I'm part of the scientific committee, together with Emmy Lindstam (IE University), Amalia Álvarez-Benjumea (CSIC), Jorge M. Fernandes (CSIC), Patrick Kraft (CSIC) and Sergio Galaz-García (CUNEF).
 
 <p><a href="https://madridempiricalsocialsciences.github.io/" target="_blank" rel="noopener"><button type="button">Visit the MESS website</button></a></p>
