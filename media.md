@@ -9,7 +9,7 @@ title: "Media"
 
 <section>
 
-<h3>Press &amp; TV</h3>
+<h3>Press, TV &amp; Podcasts</h3>
 
 <div class="media-list">
 
@@ -43,16 +43,6 @@ title: "Media"
     <p class="media-links"><a href="https://www.rtve.es/play/videos/parlamento/parlamento-entrevista-informe-sobre-democracia-2022-28-10-2023/7000591/" target="_blank" rel="noopener"><button type="button">Watch on RTVE Play</button></a></p>
   </div>
 </article>
-
-</div>
-
-</section>
-
-<section>
-
-<h3>Podcasts</h3>
-
-<div class="media-list">
 
 <article class="media-item">
   <a class="media-thumb" href="https://open.spotify.com/episode/2ZnZhO8OF64MPjbVnuo4Gd" target="_blank" rel="noopener"><img src="https://i.scdn.co/image/ab6765630000ba8a7dca843911072eba115220ab" alt="Cover of the PAUSA podcast with Marta García Aller"></a>
