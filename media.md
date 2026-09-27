@@ -35,7 +35,7 @@ title: "Media"
 <div class="media-list">
 
 <article class="media-item">
-  <a class="media-thumb media-badge" href="https://open.spotify.com/episode/2ZnZhO8OF64MPjbVnuo4Gd" target="_blank" rel="noopener" aria-label="Listen to PAUSA episode 51 on Spotify"><span><span class="media-badge-big">PAUSA</span><span class="media-badge-small">Episode 51 · 44 min</span></span></a>
+  <a class="media-thumb" href="https://open.spotify.com/episode/2ZnZhO8OF64MPjbVnuo4Gd" target="_blank" rel="noopener"><img src="https://i.scdn.co/image/ab6765630000ba8a7dca843911072eba115220ab" alt="Cover of the PAUSA podcast with Marta García Aller"></a>
   <div class="media-body">
     <p class="media-meta">PAUSA · El Confidencial · 8 November 2023</p>
     <p class="media-title">¿Por qué catalanes y madrileños caemos tan mal?</p>
