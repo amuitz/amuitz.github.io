@@ -4,7 +4,7 @@ layout: default
 
 <img src="files/photo.JPG" style="width: 45%; height: 60%" />
 
-I am an Associate Professor of Political Science in the [Department of Social Sciences](https://www.uc3m.es/social-sciences-department/home) at [Universidad Carlos III de Madrid](https://www.uc3m.es/home) and a fellow member of the [Instituto Juan Linz](https://ijlinz.es). I currently serve as an editor at [*Regional and Federal Studies*](https://www.tandfonline.com/journals/frfs20). 
+I am an Associate Professor (Profesora Titular de Universidad) of Political Science in the [Department of Social Sciences](https://www.uc3m.es/social-sciences-department/home) at [Universidad Carlos III de Madrid](https://www.uc3m.es/home) and a fellow member of the [Instituto Juan Linz](https://ijlinz.es). I currently serve as an editor at [*Regional and Federal Studies*](https://www.tandfonline.com/journals/frfs20). 
 
 My research focuses on federalism and decentralization. I use a range of quantitative methods to examine how these institutions are designed, how they evolve over time, and how they shape multilevel politics and societies. Part of my research has been published at the *European Journal of Political Research*, *Regional Studies*, and *West European Politics*, among others.
 
