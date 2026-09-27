@@ -51,6 +51,9 @@ title: "FEDCRISIS"
   <p>It was also where we made the public case for Territorial Affective Polarization (TAP) as its own research agenda, alongside talks on the territoriality of global cleavages, place-based misperceptions, regional identity and partisan affective polarization, decentralization and social spending, and partisan discrimination across seven countries.</p>
   <p style="margin:0;"><a href="https://www.linkedin.com/feed/update/urn:li:activity:7470516217531793410/" target="_blank" rel="noopener"><button type="button">Workshop recap</button></a></p>
 
+  <h3 class="project-h">What's next</h3>
+  <p>We are now working on the data from the comparative survey we developed in six federations and quasi-federations: Belgium, Germany, Italy, Spain, the United Kingdom and the United States. The survey lets us compare how territorial identities and affective polarization play out across very different multilevel systems.</p>
+
 </div>
 
 <aside class="project-figs">
