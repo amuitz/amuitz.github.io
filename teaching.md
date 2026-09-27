@@ -59,12 +59,12 @@ title: "Teaching"
 ### Jair Alva Mendoza — PhD, advisor (UC3M)
 ### <em>The Political Effects of Crises in the Territorial Organization of Political Systems</em> · 2023–today
 
-### Master's theses supervised: 5 · Bachelor's theses: 84 hours of supervision
+### Bachelor's theses: 84 hours of supervision
 ### 2017–today
 
 # EXAMINATION COMMITTEES
 
-### PhD committee: Berta Caihuelas Navajas (Universidad de Valladolid)
+### PhD committee: Berta Caihuelas Navajas (UC3M)
 ### 2025
 
 ### PhD committee: Sergio Velasco Monje (Universidad de Valladolid)
@@ -73,5 +73,5 @@ title: "Teaching"
 ### PhD committee: Paula Zuluaga (European University Institute)
 ### 2021
 
-### Master's thesis committees: 12 · Bachelor's thesis committees: 94
+### Bachelor's thesis committees: 94
 ### 2017–today
