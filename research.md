@@ -13,6 +13,10 @@ layout: default
 
 ### Territorial prejudice reduction through reciprocity (with Sandra León) <br/><a href="" target="_blank"><button type="button button1">Manuscript</button></a> <a href=""><button type="button button1">Appendix</button></a>
 
+### Territorial Identity in Comparative Perspective (with Sandra León and Jair Alva Mendoza)
+
+### Accountability After Fragmented Conflict: Evidence from South Africa (with Daniel Urquijo and Paul McLahlan)
+
 # PAST RESEARCH PROJECTS
 
 ## FEDCRISIS: “Federalism against its challenges: crisis, polarization and populism” (co-PI Sandra León)
