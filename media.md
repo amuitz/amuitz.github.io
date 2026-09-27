@@ -9,7 +9,7 @@ title: "Media"
 
 <section>
 
-<h3>Press</h3>
+<h3>Press &amp; TV</h3>
 
 <div class="media-list">
 
@@ -31,6 +31,16 @@ title: "Media"
     <p class="media-title">Amuitz Garmendia y la polarización en España: “Los españoles nos llevamos mejor de lo que parece”</p>
     <p class="media-desc">A video interview on polarization and coexistence in Spain: which regions are seen most and least favourably by the rest of the country, where territorial stereotypes come from, and why Spaniards get along better than it seems.</p>
     <p class="media-links"><a href="https://www.cuatro.com/noticias/cultura/20240320/amuitz-garmendia-polarizacion-y-convivencia-en-espana_18_012016689.html" target="_blank" rel="noopener"><button type="button">Watch interview</button></a></p>
+  </div>
+</article>
+
+<article class="media-item">
+  <a class="media-thumb" href="https://www.rtve.es/play/videos/parlamento/parlamento-entrevista-informe-sobre-democracia-2022-28-10-2023/7000591/" target="_blank" rel="noopener"><img src="https://img2.rtve.es/v/7000591/?w=800" alt="Amuitz Garmendia and Alberto Penadés interviewed on RTVE's Parlamento"></a>
+  <div class="media-body">
+    <p class="media-meta">RTVE La 2 · Parlamento · 28 October 2023 · 7 min</p>
+    <p class="media-title">Informe sobre la Democracia en España 2022</p>
+    <p class="media-desc">Amuitz Garmendia and Alberto Penadés, co-directors of the report by the Fundación Alternativas and the Centro de Estudios Políticos y Constitucionales, discuss the quality of Spanish democracy, which improves its score in this edition.</p>
+    <p class="media-links"><a href="https://www.rtve.es/play/videos/parlamento/parlamento-entrevista-informe-sobre-democracia-2022-28-10-2023/7000591/" target="_blank" rel="noopener"><button type="button">Watch on RTVE Play</button></a></p>
   </div>
 </article>
 
