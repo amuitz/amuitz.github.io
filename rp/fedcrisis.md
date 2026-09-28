@@ -18,7 +18,7 @@ title: "FEDCRISIS"
 
 <div class="project-text">
 
-  <h3 class="project-h">Why it matters</h3>
+  <h3 class="project-h">Brief description</h3>
   <p>Federalism and decentralization are usually sold as a package deal: better governance, sharper accountability, calmer ethnic and territorial conflict. But that promise has rarely been tested under real pressure. FEDCRISIS asks what happens to multilevel democracies when the pressure is on — when a pandemic hits, when politics turns tribal, and when populists start using the map itself as a weapon.</p>
   <p>Co-led with Sandra León and funded by Spain's Ministry of Science and Innovation, the project tracks how crisis, polarization and populism strain the relationship between central and regional governments — and what citizens make of it.</p>
 
