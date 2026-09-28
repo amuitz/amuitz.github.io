@@ -82,3 +82,7 @@ title: "FEDCRISIS"
 
 </div>
 </div>
+
+<div class="project-funding" style="margin:2.4em 0 0;">
+  <img src="../files/fedcrisis-funding.png" alt="Ministerio de Ciencia, Innovación y Universidades; Financiado por la Unión Europea NextGenerationEU; Plan de Recuperación, Transformación y Resiliencia; Agencia Estatal de Investigación" style="width:100%;max-width:900px;height:auto;display:block;border-radius:6px;">
+</div>
