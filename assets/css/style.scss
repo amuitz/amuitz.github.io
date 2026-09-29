@@ -204,7 +204,7 @@ img { max-width: 100%; height: auto; }
 .is-research h2 + h3,
 .is-research h1 + h3,
 .is-research h3 + h3,
-.is-research details + h3 {
+.is-research .wp-abstract + h3 {
   display: block;
   font: 400 14.5px/1.6 var(--sans);
   letter-spacing: 0;
@@ -212,8 +212,8 @@ img { max-width: 100%; height: auto; }
   color: var(--ink-2);
   margin: 0 0 34px;
 }
-.is-research h1 + h3, .is-research h3 + h3, .is-research details + h3 { font: 500 19px/1.4 var(--serif); color: var(--ink); }
-.is-research h2 + h3::after, .is-research h1 + h3::after, .is-research h3 + h3::after, .is-research details + h3::after { display: none; }
+.is-research h1 + h3, .is-research h3 + h3, .is-research .wp-abstract + h3 { font: 500 19px/1.4 var(--serif); color: var(--ink); }
+.is-research h2 + h3::after, .is-research h1 + h3::after, .is-research h3 + h3::after, .is-research .wp-abstract + h3::after { display: none; }
 
 /* paper / exercise pages that open with an h3 title */
 .content > h3:first-child {
@@ -346,27 +346,9 @@ img { max-width: 100%; height: auto; }
 .content details summary { cursor: pointer; font-weight: 500; color: var(--accent); }
 .content details[open] summary { margin-bottom: 8px; }
 
-/* working-paper abstracts: a chip button that expands the text */
-.content details.wp-abstract { border: 0; background: none; padding: 0; margin: -26px 0 34px; }
-.content details.wp-abstract summary {
-  list-style: none;
-  display: inline-flex; align-items: center;
-  margin: 0;
-  padding: 5px 12px;
-  border: 1px solid var(--line);
-  border-radius: 999px;
-  background: var(--chip);
-  color: var(--ink-2);
-  font: 600 11.5px/1.2 var(--sans);
-  letter-spacing: .06em;
-  text-transform: uppercase;
-  transition: all .18s;
-}
-.content details.wp-abstract summary::-webkit-details-marker { display: none; }
-.content details.wp-abstract summary:hover,
-.content details.wp-abstract[open] summary { background: var(--accent); border-color: var(--accent); color: var(--panel); }
-.content details.wp-abstract p {
-  margin: 12px 0 0;
+/* working-paper abstracts: toggled by an "Abstract" button on the title line */
+.content .wp-abstract {
+  margin: -22px 0 34px;
   padding: 14px 18px;
   background: var(--panel);
   border: 1px solid var(--line);
@@ -374,6 +356,8 @@ img { max-width: 100%; height: auto; }
   font-size: 14.5px;
   line-height: 1.6;
 }
+.content .wp-abstract[hidden] { display: none; }
+.content .wp-abstract p { margin: 0; }
 
 /* ---------- misc ---------- */
 
